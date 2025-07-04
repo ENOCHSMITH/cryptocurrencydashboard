@@ -1,4 +1,4 @@
-# cryptocurrencydashboard
+# CRYPTOCURRENCY DASHBOARDS
 CRYPTOCURRENCY DASHBOARDS
 
 Project Overview:
